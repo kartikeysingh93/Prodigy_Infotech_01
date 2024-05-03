@@ -16,9 +16,13 @@ Provide step-by-step instructions on how to install and set up the project local
 ###bash
 
 # Example installation steps
-git clone https://github.com/kartikeysingh93/Prodigy_Infotech_01.git
-cd PRODIGY_Infotech_01
-python task1.py
+1.git clone https://github.com/kartikeysingh93/Prodigy_Infotech_01.git
+
+2.cd PRODIGY_Infotech_01
+
+3. python task1.py
+
+
 Usage
 This project can be used to encrypt and decrypt your text
 
