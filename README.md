@@ -11,8 +11,8 @@ Provide step-by-step instructions on how to install and set up the project local
 ###bash
 ```
 # Example installation steps
-git clone https://github.com/kartikeysingh93/Prodigy_Infotech_01
-cd PRODIGY_Infotech_01
+git clone https://github.com/kartikeysingh93/Prodigy_Infotech_01.git
+cd Prodigy_Infotech_01
 python task1.py
 ```
 # Usage
